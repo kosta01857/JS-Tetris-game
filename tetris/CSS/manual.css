@@ -1,0 +1,30 @@
+body{
+	background-color:#dedda2;
+}
+
+span{
+	text-align:center;
+}
+
+div{
+	margin-left:20px;
+}
+
+#tabela{
+	margin-left:20px;
+	display:flexbox;
+	width:100%;
+	height:100%;
+	
+}
+table{
+	width:120px;
+	height:100px;
+}
+button{
+	background-color:green;
+	border-radius:5px;
+	width:100px;
+	height:50px;
+	margin:20px;
+}
